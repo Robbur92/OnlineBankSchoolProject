@@ -1,0 +1,58 @@
+﻿@model s236328_s236374.Models.Betaling
+
+@{
+    ViewBag.Title = "OpprettBetaling";
+}
+<br /><br /><br />
+<h2>Ny Betaling</h2>
+<div>
+    @Html.ActionLink("Tilbake til kontoutskrift", "ListAlleKontoer", "Konto")
+</div>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.navn,"Navn", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.navn, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.navn, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.kontonr,"Kontonummer", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.kontonr, new { htmlAttributes = new { @class = "form-control", maxlength = 11, minlength = 11} })
+                @Html.ValidationMessageFor(model => model.kontonr, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.sum,"Sum NOK", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.sum, new { htmlAttributes = new { @class = "form-control", @type = "number"} })
+                @Html.ValidationMessageFor(model => model.sum, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.dato, "Dato",htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.dato, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                @Html.ValidationMessageFor(model => model.dato, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Betal" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

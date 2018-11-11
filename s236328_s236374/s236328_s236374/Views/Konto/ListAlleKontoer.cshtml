@@ -1,0 +1,55 @@
+﻿@using s236328_s236374.Models
+@model IEnumerable<s236328_s236374.Models.Konto>
+
+@{
+    ViewBag.Title = "ListAlleKontoer";
+}
+<br /><br /><br />
+<h2>Oversikt Kontoer</h2>
+
+<p>
+    @Html.ActionLink("Ny Betaling", "OpprettBetaling", "Betaling")
+</p>
+<p>
+    @Html.ActionLink("Betalingsoversikt", "ListAlleBetalinger", "Betaling")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Kontonummer
+        </th>
+        <th>
+            Type Konto
+        </th>
+        <th>
+            Disponibel Saldo
+        </th>
+        <th></th>
+    </tr>
+    
+
+    @using (BrukerContext db = new BrukerContext())
+    {
+        if (HttpContext.Current.Session["Personnummer"].ToString() != null)
+        {
+            var konto = new BrukerDatabase();
+            var mineKontoer = konto.HentKonti(HttpContext.Current.Session["Personnummer"].ToString());
+
+            foreach (var item in mineKontoer)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.kontonr)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.kontotype)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.saldo) kr
+                    </td>
+                </tr>
+            }
+        }
+
+    }
+</table>

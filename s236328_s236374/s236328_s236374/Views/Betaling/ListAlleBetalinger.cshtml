@@ -1,0 +1,61 @@
+﻿@using s236328_s236374.Models;
+@model IEnumerable<s236328_s236374.Models.Betaling>
+
+@{
+    ViewBag.Title = "ListAlleBetalinger";
+}
+<br /><br /><br />
+<h2>Oversikt Betalinger</h2>
+
+<p>
+    @Html.ActionLink("Ny Betaling", "OpprettBetaling")
+</p>
+<p>
+    @Html.ActionLink("Tilbake til kontoutskrift", "ListAlleKontoer", "Konto")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Navn
+        </th>
+        <th>
+            Kontonummer
+        </th>
+        <th>
+            Sum
+        </th>
+        <th>
+            Dato
+        </th>
+        <th></th>
+    </tr>
+    @using (BrukerContext db = new BrukerContext())
+    {
+        var betaling = new BrukerDatabase();
+        var mineKontoer = betaling.HentBetalinger(HttpContext.Current.Session["Personnummer"].ToString());
+        foreach (var item in mineKontoer.ToList())
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.navn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.kontonr)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.sum)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dato)
+                </td>
+                <td>
+                    @Html.ActionLink("Endre", "EndreBetaling", new { id = item.id }) | 
+                    @Html.ActionLink("Slett", "Slettbetaling", new { id = item.id })
+                </td>
+            </tr>
+        }
+
+    }
+
+
+</table>

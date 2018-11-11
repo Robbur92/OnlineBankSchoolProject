@@ -1,0 +1,4 @@
+1Navn: Jonas. Personnummer:12345678912. Passord:passord123
+2Navn: Robin. Personnummer:98765432198. Passord:abcd1234
+3Navn: Lise. Personnummer:11111111111. Passord:skole1
+4Navn: Jacob. Personnummer:10101010101. Passord:abc123

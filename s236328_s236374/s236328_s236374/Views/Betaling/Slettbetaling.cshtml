@@ -1,0 +1,21 @@
+﻿@model s236328_s236374.Models.Betaling
+
+@{
+    ViewBag.Title = "Slettbetaling";
+}
+<br /><br /><br />
+<h2>Slette Betaling</h2>
+
+<h3>Er du sikker på at du vil slette betalingen?</h3>
+<div>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> 
+            <br /><br />
+            @Html.ActionLink("Tilbake til Betalinger", "ListAlleBetalinger")
+        </div>
+    }
+</div>

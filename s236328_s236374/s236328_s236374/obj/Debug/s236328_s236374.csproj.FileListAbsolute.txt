@@ -1,0 +1,252 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\ApplicationInsights.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\csc.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\vbc.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\s236328_s236374.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\EntityFramework.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Razor.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\EntityFramework.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Razor.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\ApplicationInsights.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\csc.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\vbc.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Razor.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Razor.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Ferdig\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.pdb
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\ApplicationInsights.config
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\csc.exe
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\vbc.exe
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.config
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\s236328_s236374.pdb
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Razor.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Razor.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.xml
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.csprojResolveAssemblyReference.cache
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.dll
+E:\Dropbox\Webapplikasjoner\Ferdig\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.pdb
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\ApplicationInsights.config
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\csc.exe
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\vbc.exe
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.config
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\s236328_s236374.pdb
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\EntityFramework.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Razor.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\EntityFramework.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Razor.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.xml
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.dll
+C:\Users\Robin\Dropbox\Webapplikasjoner\Oblig1\s236328_s236374\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.pdb
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\ApplicationInsights.config
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\csc.exe
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\System.Collections.Immutable.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\System.Reflection.Metadata.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\vbc.exe
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\roslyn\VBCSCompiler.exe.config
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.config
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\s236328_s236374.pdb
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\EntityFramework.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.Web.Infrastructure.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Razor.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\EntityFramework.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\EntityFramework.SqlServer.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.DependencyCollector.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.Web.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.AI.WindowsServer.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.ApplicationInsights.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Razor.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Deployment.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Webpages.Razor.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Helpers.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\System.Web.Mvc.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.csproj.CoreCompileInputs.cache
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.csproj.CopyComplete
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.dll
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\obj\Debug\s236328_s236374.pdb
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.CodeAnalysisLog.xml
+E:\Stuff\Skole 16-17\Skole 16-17\Høst\Webapp\WebappOblig1\s236328_s236374\s236328_s236374\bin\s236328_s236374.dll.lastcodeanalysissucceeded
